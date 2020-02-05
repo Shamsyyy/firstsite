@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <style>
+    body {
+
+    background: #8FBC8F url(https://i.pinimg.com/564x/35/d6/68/35d668275b621a3779393b6192e0e482.jpg) no-repeat; // тут фон задаем :)
+    -o-background-size: 100%;
+    background-size: 100%
+   }
+    </style>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <li><font size="5" color="purple" face="impact">   Данные животые обитают в Австралии </font></li>
+   <hr>
+     <ul>
+       
+     <li><font size="3" color="red" face="Arial">Киты́ — морские млекопитающие из инфраотряда китообразных, не относящиеся ни к дельфинам, ни к морским свиньям. Косатки и гринды имеют слово «кит» в своих неофициальных названиях, хотя по строгой классификации они являются дельфинами.</font></li>
+     <img src="https://snob.ru/i/indoc/ba/rubric_issue_event_1516253.jpg" alt="Картинка не найдена" width="1024" height="255"> 
+     <li><font size="6" color="blue" face="algerian">Слоно́вые, или слоны́, или элефанти́ды, — семейство млекопитающих из отряда хоботных. В настоящее время к этому семейству относятся 3 ныне живущих вида. Африканские саванные слоны — наиболее крупные наземные млекопитающие.</font></li>
+     <img src="https://i.ytimg.com/vi/ViAath1B5WY/maxresdefault.jpg" alt="Картинка не найдена" width="1024" height="255"> 
+     <li><font size="9" color="orange" face="comic sans ms">Тигр — вид хищных млекопитающих семейства кошачьих, один из четырёх представителей рода пантера, который относится к подсемейству больших кошек.</font></li>
+     <img src="https://cdn.iz.ru/sites/default/files/styles/900x506/public/news-2018-05/Depositphotos_37289893_l-2015.jpg?itok=6qX1E6gM" alt="Картинка не найдена" width="1024" height="255"> 
+     <li><font size="12" color="black" face="fantasy">Обезьяна - это общепринятое название, которое может относиться к группам или видам млекопитающих, в частности, к обезьянам из инфра-порядка Simiiformes. </font></li>
+     <img src="https://lh3.googleusercontent.com/proxy/TeJjyADdi8XGE9U1pJLevZNW-o9KQV8pVH2n6N_bxoQIbBm7pyEHzgiCWUnlYULcorrymspyKKi2hQAK7YWrZqSi4MoZQ-wE6OJnGA" alt="Картинка не найдена" width="1024" height="255"> 
+     <li><font size="15" color="white" face="PLAYBILL">Коа́ла — вид сумчатых, обитающий в Австралии. Единственный современный представитель семейства коаловых из отряда двурезцовых сумчатых.</font></li>
+     <img src="https://ichef.bbci.co.uk/news/410/cpsprodpb/E4B7/production/_90515585_koala__2012_jpe_ws_01_low_res.jpg" alt="Картинка не найдена" width="1024" height="255"> 
+     </ul>
+     <hr>
+    <script src="script.js"></script>
+  </body>
+</html>
